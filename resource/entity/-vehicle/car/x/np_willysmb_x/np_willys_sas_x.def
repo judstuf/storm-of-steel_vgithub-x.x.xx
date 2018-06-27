@@ -1,0 +1,66 @@
+{game_entity
+	{Extension "willys_sas_x.mdl"}
+	{Placer
+	         {place "attach01"
+	            {entity "can"}
+	            {Linkbone "attach01"}
+	            {handlebone "basis"}
+	            {obstacle disable}
+	         }
+	         {place "attach02"
+	                 {entity "can"}
+	                  {Linkbone "attach02"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	        {place "attach03"
+	                 {entity "can"}
+	                  {Linkbone "attach03"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	         {place "attach04"
+	                 {entity "can"}
+	                  {Linkbone "attach04"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	         {place "attach05"
+	                 {entity "can"}
+	                  {Linkbone "attach05"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	         {place "attach06"
+	                 {entity "fr_backpack"}
+	                  {Linkbone "attach06"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+                         {place "attach07"
+	                 {entity "fr_backpack"}
+	                  {Linkbone "attach07"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	         {place "attach09"
+	                 {entity "balloon_tank"}
+	                  {Linkbone "attach09"}
+	                  {handlebone "basis"}
+	                  {obstacle disable}
+	         }
+	         {place "attach_mgun01"
+	            {entity "vickers_k"}
+	            {Linkbone "attach_mgun01"}
+	            {handlebone "basis"}
+	            {obstacle disable}
+	         }
+   	         {place "attach_mgun02"
+	            {entity "vickers_k"}
+	            {Linkbone "attach_mgun02"}
+	            {handlebone "basis"}
+	            {obstacle disable}
+	         }
+	   
+	 }
+}

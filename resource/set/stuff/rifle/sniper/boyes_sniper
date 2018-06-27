@@ -1,0 +1,22 @@
+{from "pattern sniper_rifle"
+	{tag "weapon at_rifle bullet to_hand nokeep"}
+	{filling "ammo ptr" 5}
+	{entity "boyes"}
+
+	{cursor "zenite_on"}
+	{cursorReloading "zenite_reload"}
+	{fireSound	"rifle/ptr/ptrs"}
+	{reloadSound "ptrd"}
+
+	{range 75 80}
+	{speed 160}
+
+	{rechargeTime 3.5}   
+	{recoveryTime 1.25}    
+	{calibre 14}
+	{curve "gun_light"}
+	{healthDamage 275}
+	
+	{projectileDamageTable {0 30} {35 25} {50 20} {80 10} {100 5}}
+	("speed" s(884))	
+}
